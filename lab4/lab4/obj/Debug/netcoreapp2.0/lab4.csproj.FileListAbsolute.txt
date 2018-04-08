@@ -1,0 +1,13 @@
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csprojResolveAssemblyReference.cache
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\DbDataLibrary.dll
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\bin\Debug\netcoreapp2.0\DbDataLibrary.pdb
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+F:\Studies\Sixth\SCI\labs\lab4\SCI_lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
