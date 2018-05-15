@@ -13,6 +13,7 @@ using System;
 namespace lab4.Controllers
 {
     [ExceptionFilter]
+    [TypeFilter(typeof(LogFilter))]
     public class TourKindController : Controller
     {
         private ToursSqliteDbContext _db;

@@ -12,6 +12,8 @@ using System;
 
 namespace lab4.Controllers
 {
+
+    [TypeFilter(typeof(LogFilter))]
     [ExceptionFilter]
     public class ClientController: Controller
     {

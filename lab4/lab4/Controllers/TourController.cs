@@ -14,6 +14,7 @@ using Microsoft.EntityFrameworkCore;
 namespace lab4.Controllers
 {
     [ExceptionFilter]
+    [TypeFilter(typeof(LogFilter))]
     public class TourController : Controller
     {
         private ToursSqliteDbContext _db;
